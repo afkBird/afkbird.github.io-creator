@@ -2,3 +2,21 @@ baseURL = "afkbird.github.io"
 languageCode = "zh-Hans"
 title = "鸡尔伽美什的博客"
 theme = "ananke"
+
+[params]
+  favicon = ""
+  description = "前端学习"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "github.com/afkBird"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  background_color_class = "bg-black"
+  featured_image = "http://img3.imgtn.bdimg.com/it/u=3315469501,1877591910&fm=26&gp=0.jpg"
+  recent_posts_number = 3
+  
