@@ -1,0 +1,4 @@
+baseURL = "jejms.cn"
+languageCode = "zh-Hans"
+title = "鸡尔伽美什的博客"
+theme = "ananke"
